@@ -21,3 +21,9 @@ house harness reads) — nothing else on stdout.
 ```sh
 python3 main.py
 ```
+
+## Duel result
+
+The chosen line was duelled against our rank-1 benchmark line (c11, the
+plastic-plants line) on the backup judge chain and won 0.95 on AxForge.
+It also won the B-vs-C tiebreak 0.75, which settled the final pick.
